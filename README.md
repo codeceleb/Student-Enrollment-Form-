@@ -1,6 +1,7 @@
 ## Title of the Project: Student-Enrollment-Form
 ### Description
-![image](https://user-images.githubusercontent.com/90664788/211865410-1db2a418-19ff-4eca-a1ed-b36b70e22ff7.png)
+![image](https://user-images.githubusercontent.com/90664788/211866513-d01015b7-cc8f-4fa1-9907-8354a431cb3c.png)
+
 ##### Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
 ##### Input Fields: {Roll-No, Full-Name, Your Course.)
 
