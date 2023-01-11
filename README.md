@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/90664788/211859914-f3d09726-3eef-4b78-a16b-dbf0630b0d06.png)
 
 
-#### Benefits of using JsonPowerDB
+### Benefits of using JsonPowerDB
 
 ##### JsonPowerDB (JPDB) is Next Generation, Creative and Disruptive Multi-mode DBMS_ with many USPs.
 ##### Proprietary algorithm for High Performance CRUD operations. Multiple times faster than popular DBMS.
