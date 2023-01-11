@@ -1,6 +1,8 @@
 ## Title of the Project: Student-Enrollment-Form
 ### Description
-![image](https://user-images.githubusercontent.com/90664788/211859914-f3d09726-3eef-4b78-a16b-dbf0630b0d06.png)
+![image](https://user-images.githubusercontent.com/90664788/211865410-1db2a418-19ff-4eca-a1ed-b36b70e22ff7.png)
+##### Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
+##### Input Fields: {Roll-No, Full-Name, Your Course.)
 
 
 ### Benefits of using JsonPowerDB
@@ -11,10 +13,10 @@
 ##### 4.DBMS with built in web / application server and embedded caching makes the performance lightning fast.
 ##### 5.Server side Native NoSQL - best query performance.
 ##### 6.In-built support to query on multiple JPDB databases.
-$Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
-##### Schema free - easy to develop and maintain.
-##### Web-services API - Can be used with any programming language that has support for HTTP.
-##### Enriched by a pluggable API Framework - A developer can develop a pluggable API and plugin into any of our cloud JPDB instance.
-##### Standardisation of API development framework makes the development process easy, more readable, and less error prone.
-##### Multiple security layers.
-##### Nimble, Simple to use, In Memory, Real-time DBMS.
+##### 7.Multi-mode DBMS - Document DB, Key-Value DB, RDBMS support.
+##### 8.Schema free - easy to develop and maintain.
+##### 9.Web-services API - Can be used with any programming language that has support for HTTP.
+##### 10.Enriched by a pluggable API Framework - A developer can develop a pluggable API and plugin into any of our cloud JPDB instance.
+##### 11.Standardisation of API development framework makes the development process easy, more readable, and less error prone.
+##### 12.Multiple security layers.
+##### 13.Nimble, Simple to use, In Memory, Real-time DBMS.
